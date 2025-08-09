@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a Process Engineer in the Oil&Gas Engineering and Operations.
+
+🌱 I’m currently learning Python & VBA for Chemical Engineering Applications.
+👯 I’m looking to collaborate on Digital Twins Projects.
 <!--
 **TahaZier/TahaZier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
